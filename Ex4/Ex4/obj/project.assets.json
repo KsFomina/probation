@@ -1096,11 +1096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\работа\\Ex4\\Ex4\\Ex4.csproj",
+      "projectUniqueName": "D:\\ЗаданияФоминаКС\\-------------------\\Ex4\\Ex4\\Ex4.csproj",
       "projectName": "Ex4",
-      "projectPath": "D:\\работа\\Ex4\\Ex4\\Ex4.csproj",
+      "projectPath": "D:\\ЗаданияФоминаКС\\-------------------\\Ex4\\Ex4\\Ex4.csproj",
       "packagesPath": "C:\\Users\\Ксения\\.nuget\\packages\\",
-      "outputPath": "D:\\работа\\Ex4\\Ex4\\obj\\",
+      "outputPath": "D:\\ЗаданияФоминаКС\\-------------------\\Ex4\\Ex4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ксения\\AppData\\Roaming\\NuGet\\NuGet.Config",

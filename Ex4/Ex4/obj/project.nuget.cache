@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PwCSArXiRkMv7t6HkYRO02YnFss0taeQjKCApTIWsXly/uwpkt47iJLk4KX8WviXjZlb15gR3C3DreIahiE2xQ==",
+  "dgSpecHash": "WRPURne9BjcyZdeGibhhTJzsvZN66VbM5c94W/raHg29xOqG3o52e5mUDByhhfeiUjqI2q+4LxLLFH4DTewzmQ==",
   "success": true,
-  "projectFilePath": "D:\\работа\\Ex4\\Ex4\\Ex4.csproj",
+  "projectFilePath": "D:\\ЗаданияФоминаКС\\-------------------\\Ex4\\Ex4\\Ex4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ксения\\.nuget\\packages\\epplus\\7.1.2\\epplus.7.1.2.nupkg.sha512",
     "C:\\Users\\Ксения\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
