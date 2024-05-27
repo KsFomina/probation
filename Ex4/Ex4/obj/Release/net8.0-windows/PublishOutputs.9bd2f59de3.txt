@@ -1,0 +1,17 @@
+D:\работа\Ex4.exe
+D:\работа\Ex4.dll
+D:\работа\Ex4.deps.json
+D:\работа\Ex4.runtimeconfig.json
+D:\работа\Ex4.pdb
+D:\работа\EPPlus.dll
+D:\работа\EPPlus.Interfaces.dll
+D:\работа\EPPlus.System.Drawing.dll
+D:\работа\Microsoft.Extensions.Configuration.dll
+D:\работа\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\работа\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\работа\Microsoft.Extensions.Configuration.Json.dll
+D:\работа\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\работа\Microsoft.Extensions.FileProviders.Physical.dll
+D:\работа\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\работа\Microsoft.Extensions.Primitives.dll
+D:\работа\Microsoft.IO.RecyclableMemoryStream.dll

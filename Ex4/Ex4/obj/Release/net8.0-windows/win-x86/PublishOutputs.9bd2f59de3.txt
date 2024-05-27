@@ -1,0 +1,7 @@
+D:\работа\Ex4.pdb
+D:\работа\D3DCompiler_47_cor3.dll
+D:\работа\PenImc_cor3.dll
+D:\работа\PresentationNative_cor3.dll
+D:\работа\vcruntime140_cor3.dll
+D:\работа\wpfgfx_cor3.dll
+D:\работа\Ex4.exe
